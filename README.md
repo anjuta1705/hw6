@@ -1,7 +1,7 @@
 # hw6
 ## Часть 1
 ### 1
-![alt-текст](https://github.com/anjuta1705/hw6/blob/master/IMG_0555%20(1).jpg)
+![alt-текст]()
 ### 2
 ![alt-текст](https://github.com/anjuta1705/hw6/blob/master/IMG_0551%20(1).jpg)
 ### 3
